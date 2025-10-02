@@ -14,13 +14,13 @@
         <mongo.version>5.1.2</mongo.version>
         <kotlin.compiler.jvmTarget>17</kotlin.compiler.jvmTarget>
         <kotlin.version>2.2.20</kotlin.version>
-        <logback.version>1.5.18</logback.version>
+        <logback.version>1.5.19</logback.version>
         <maven.compiler.release>17</maven.compiler.release>
         <maven.version>3.9.11</maven.version>
         <maven.project-info-reports-plugin.version>3.9.0</maven.project-info-reports-plugin.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-        <quarkus.version>3.28.0</quarkus.version>
+        <quarkus.version>3.28.1</quarkus.version>
         <rest-assured.version>5.5.6</rest-assured.version>
     </properties>
 
@@ -203,7 +203,7 @@
             <dependency>
                 <groupId>org.assertj</groupId>
                 <artifactId>assertj-core</artifactId>
-                <version>3.27.5</version>
+                <version>3.27.6</version>
                 <scope>test</scope>
             </dependency>
             <dependency>
