@@ -58,8 +58,8 @@
         <maven.jxr-plugin.version>3.6.0</maven.jxr-plugin.version>
         <maven.license-plugin.version>2.7.0</maven.license-plugin.version>
         <maven.openapi-generator-maven-plugin.version>7.15.0</maven.openapi-generator-maven-plugin.version>
-        <maven.pitest-plugin.version>1.20.6</maven.pitest-plugin.version>
-        <maven.pmd-plugin.version>3.27.0</maven.pmd-plugin.version>
+        <maven.pitest-plugin.version>1.21.0</maven.pitest-plugin.version>
+        <maven.pmd-plugin.version>3.28.0</maven.pmd-plugin.version>
         <maven.project-info-reports-plugin.version>3.9.0</maven.project-info-reports-plugin.version>
         <maven.rat-plugin.version>0.16.1</maven.rat-plugin.version>
         <maven.release-plugin.version>3.1.1</maven.release-plugin.version>
@@ -67,7 +67,7 @@
         <maven.scm-plugin.version>2.2.1</maven.scm-plugin.version>
         <maven.site-plugin.version>4.0.0-M16</maven.site-plugin.version>
         <maven.source-plugin.version>3.3.1</maven.source-plugin.version>
-        <maven.spotbugs-plugin.version>4.9.6.0</maven.spotbugs-plugin.version>
+        <maven.spotbugs-plugin.version>4.9.7.0</maven.spotbugs-plugin.version>
         <maven.surefire-plugin.version>3.5.4</maven.surefire-plugin.version>
         <maven.swaggerhub-maven-plugin.version>1.0.10</maven.swaggerhub-maven-plugin.version>
         <maven.tidy-plugin.version>1.4.0</maven.tidy-plugin.version>
@@ -82,7 +82,7 @@
         <spotbugs.version>4.7.3</spotbugs.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-        <quarkus.version>3.28.2</quarkus.version>
+        <quarkus.version>3.28.4</quarkus.version>
     </properties>
 
     <modules>
